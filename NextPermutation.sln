@@ -5,9 +5,9 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NextPermutation", "NextPermutation\NextPermutation.csproj", "{9C5D24BE-B4B7-41C6-B325-C12E31CCDE92}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NextPermutationAppTest", "NextPermutationAppTest\NextPermutationAppTest.csproj", "{7C970B18-60EB-4CF7-9C47-951EC238AF14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{7C970B18-60EB-4CF7-9C47-951EC238AF14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTest", "IntegrationTest\IntegrationTest.csproj", "{9DC45375-50A2-4DE7-A1CE-6EB0A7A53EE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationTest", "IntegrationTest\IntegrationTest.csproj", "{9DC45375-50A2-4DE7-A1CE-6EB0A7A53EE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -221,7 +221,9 @@ var assemblies = [
   {
     "name": "Default",
     "classes": [
-      { "name": "C:\\Users\\family\\source\\repos\\NextPermutation\\NextPermutation\\Program.cs", "rp": "C__Users_family_source_repos_NextPermutation_NextPermutation_Program.cs.html", "cl": 27, "ucl": 2, "cal": 29, "tl": 47, "cb": 8, "tb": 8, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "C:\\Users\\family\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs", "rp": "C__Users_family_.nuget_packages_microsoft.net.testapp3.1_Microsoft.NET.Test.Sdk.Program.cs.html", "cl": 0, "ucl": 1, "cal": 1, "tl": 4, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "C:\\Users\\family\\source\\repos\\NextPermutation\\NextPermutation\\Program.cs", "rp": "C__Users_family_source_repos_NextPermutation_NextPermutation_Program.cs.html", "cl": 27, "ucl": 3, "cal": 30, "tl": 52, "cb": 8, "tb": 8, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "C:\\Users\\family\\source\\repos\\NextPermutation\\NextPermutationAppTest\\NextPermutationUnitTest.cs", "rp": "C__Users_family_source_repos_NextPermutation_NextPermutationAppTest_NextPermutationUnitTest.cs.html", "cl": 0, "ucl": 18, "cal": 18, "tl": 37, "cb": 0, "tb": 4, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
     ]},
 ];
 

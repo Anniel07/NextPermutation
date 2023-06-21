@@ -6,8 +6,8 @@ namespace IntegrationTest
 {
     public class NextPermutationIntegrationTest
     {
-        StringBuilder _consoleOutput;
-        Mock<TextReader> _consoleInput;
+        readonly StringBuilder _consoleOutput;
+        readonly Mock<TextReader> _consoleInput;
 
         public NextPermutationIntegrationTest()
         {
@@ -44,7 +44,7 @@ namespace IntegrationTest
         }
 
         [Fact]
-        public void ShowArrayAsx_WhenPermutationNotExits()
+        public void ShowArrayAsc_WhenPermutationNotExits()
         {
             // Arrange
             string expectedOutput = "[10,20,100]";
